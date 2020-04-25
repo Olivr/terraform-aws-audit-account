@@ -23,7 +23,7 @@ This terraform script provisions S3 buckets to store logs from an AWS cloud infr
 
 4. Run Terraform with `terraform apply`
 
-> And if there are any errors due to timeouts or other weird stuff, try to run again `terraform apply`
+> If there are any errors due to timeouts or other weird stuff, try to run again `terraform apply`
 
 ## Variables file
 
